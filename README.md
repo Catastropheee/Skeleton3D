@@ -28,9 +28,6 @@ Hotend :
 Alimentation :
 - 72W de pc portable
 
- 736943COM.jpg
-736943COM.jpg
-
 
 Améliorations apportées au prototype :
 ->	Augmentation de la surface de guidage (2xLM8uu) au niveau de l’effort moteur (X et Y) pour supprimer le risque d’arc boutement
